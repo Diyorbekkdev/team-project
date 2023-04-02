@@ -1,4 +1,9 @@
 h1{
-    color: aqua;
+    color: rgb(27, 199, 199);
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: red;
+    display: grid;
 }
